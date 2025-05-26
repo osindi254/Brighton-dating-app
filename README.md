@@ -1,2 +1,2 @@
 # Brighton-dating-app
-It's a public dating app where people meet and engage each other 
+Flutter + firebase dating app with matching,chat premium features and admin tools
